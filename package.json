@@ -1,0 +1,27 @@
+{
+  "name": "neopixel-status-ring",
+  "version": "1.0.0",
+  "description": "Utility to use Adafruits Neopixel LED Ring as a circular status indicator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bash-bear/neopixel-status-ring.git"
+  },
+  "keywords": [
+    "adafruit",
+    "neopixel",
+    "raspberrypi"
+  ],
+  "author": "ykmg/bashbear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bash-bear/neopixel-status-ring/issues"
+  },
+  "homepage": "https://github.com/bash-bear/neopixel-status-ring#readme",
+  "dependencies": {
+    "color-string": "^1.9.1"
+  }
+}

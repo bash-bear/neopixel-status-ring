@@ -1,0 +1,15 @@
+{
+    "leds": 24,
+    "stripType": "ws2812",
+    "brightness": 200,
+    "colors": {
+        "on": "yellow"
+    },
+    "cycleTime": 1500,
+    "deadPixels": [
+        0,
+        1,
+        2,
+        5
+    ]
+}
